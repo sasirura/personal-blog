@@ -4,7 +4,7 @@ title:  "I built this site using Jekyll on Docker"
 date:   2022-08-02 17:13:28 +0000
 ---
 
-# How to Develop Jekyll (and GitHub Pages) locally using Docker containers <a href="https://twitter.com/share?ref_src=twsrc%5Etf" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+# How to Develop Jekyll (and GitHub Pages) locally using Docker containers
 If you want to create a simple website using Jekyll or GitHub Pages, the typical route you take is to install Ruby and Jekyll on your computer.
 There are so many variables in getting it right, that many poeple give up in frustration. Using a Docker container is such an easier way to go.
 
@@ -261,6 +261,3 @@ bundle update
 Not a problem. Clone the code to your local computer, then follow the same steps I share in the FAQ titled **What if I delete the container**
 
 **Important**: You will have to modify the `_config.yml` file and update it with your new `baseurl` and `url`, as mentioned in `STEP 9` earlier in this README
-
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etf" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

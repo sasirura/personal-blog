@@ -22,7 +22,7 @@ url: "https://sasiru.codes" # the base hostname & protocol for your site, e.g. h
 twitter_username: sasirura
 github_username:  sasirura
 
-google_analytics: 325727785
+google_analytics: G-26YDKJQMZP
 
 # Build settings
 markdown: kramdown
@@ -31,6 +31,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
